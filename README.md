@@ -1,16 +1,26 @@
 ### Hi there 👋
 
-<!--
-**IngeNeo/IngeNeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello my name is Roger Valencia, I am a systems engineer and junior developer, passionate about technology, computer security and development, currently learning and deepening about languages such as Python, React and Java.
 
-Here are some ideas to get you started:
+I hope that some of what you see here can be of help, if you need something do not hesitate to contact me.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### God bless you.
+
+![](https://images.pexels.com/photos/1714202/pexels-photo-1714202.jpeg?cs=srgb&dl=pexels-josh-sorenson-1714202.jpg&fm=jpg)
+
+- 🌱 I’m currently learning  more Python, React, and Java
+- 📫 How to reach me: ... roger.valencia.garcia@hotmail.com
+- 😄 Pronouns: ... IngeNeo
+
+Hello my name is Roger Valencia, I am a systems engineer and junior developer, passionate about technology, computer security and development, currently learning and deepening about languages such as Python, React and Java.
+
+I hope that some of what you see here can be of help, if you need something do not hesitate to contact me.
+
+God bless you.
+
+
+### Links
+
+[Profile linkedin](https://www.linkedin.com/in/roger-alexis-valencia-garcia-6b1b2572 "Profile linkedin")
+
+`<link>` : <https://www.linkedin.com/in/roger-alexis-valencia-garcia-6b1b2572>
