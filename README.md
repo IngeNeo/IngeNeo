@@ -12,13 +12,6 @@ I hope that some of what you see here can be of help, if you need something do n
 - 📫 How to reach me: ... roger.valencia.garcia@hotmail.com
 - 😄 Pronouns: ... IngeNeo
 
-Hello my name is Roger Valencia, I am a systems engineer and junior developer, passionate about technology, computer security and development, currently learning and deepening about languages such as Python, React and Java.
-
-I hope that some of what you see here can be of help, if you need something do not hesitate to contact me.
-
-God bless you.
-
-
 ### Links
 
 [Profile linkedin](https://www.linkedin.com/in/roger-alexis-valencia-garcia-6b1b2572 "Profile linkedin")
