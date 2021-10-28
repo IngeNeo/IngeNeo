@@ -12,8 +12,8 @@ I hope that some of what you see here can be of help, if you need something do n
 - 📫 How to reach me: ... roger.valencia.garcia@hotmail.com
 - 😄 Pronouns: ... IngeNeo
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=IngeNeo&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=IngeNeo&langs_count=10&theme=tokyonight)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=IngeNeo&count_private=false&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=IngeNeo&langs_count=20&theme=tokyonight)]()
 
 ### Links
 
