@@ -13,8 +13,8 @@ I hope that some of what you see here can be of help, if you need something do n
 - 😄 Pronouns: ... IngeNeo
 
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=IngeNeo&count_private=false&theme=vision-friendly-dark&showicons=true)]()
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IngeNeo&langs_count=20&theme=vision-friendly-dark&layout=compact)](https://github.com/IngeNeo/github-readme-stats)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=IngeNeo&count_private=false&theme=vision-friendly-dark&showicons=true)](https://github.com/IngeNeo?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IngeNeo&langs_count=20&theme=vision-friendly-dark&layout=compact)](https://github.com/IngeNeo?tab=repositories)
 
 
 ### Links
